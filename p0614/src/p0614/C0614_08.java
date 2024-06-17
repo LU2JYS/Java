@@ -1,7 +1,7 @@
 package p0614;
 
 import java.util.Scanner;
-public class C0614_08 {
+public class C0617_08 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
