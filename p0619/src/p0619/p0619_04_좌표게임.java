@@ -6,6 +6,8 @@ public class p0619_04_좌표게임 {
 
     public static void main(String[] args) {
         // 1. 번호확인 배열 초기화
+    	
+    	
         int[][] arr = new int[5][5];
         for (int i = 0; i < 5; i++) {
             arr[0][i] = 1;

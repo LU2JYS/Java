@@ -10,6 +10,7 @@ public class p0619_05 {
         for (int i = 0; i < 5; i++) {
             arr[0][i] = 1;
         }
+        System.out.println();
 		//2. 번호 섞기 
         for(int i=0;i<300;i++) {
         	int no = (int)(Math.random()*5);
